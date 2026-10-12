@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Data (download/generate locally, see README)
+*.txt
+!requirements.txt
+*.fr
+*.en
+lid.176.bin
+
+# Training outputs
+checkpoints/
+wandb/
+*.pth
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/

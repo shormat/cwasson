@@ -1,0 +1,8 @@
+torch
+sentencepiece
+sacrebleu
+accelerate
+wandb
+# Data preparation only
+datasets
+fasttext
